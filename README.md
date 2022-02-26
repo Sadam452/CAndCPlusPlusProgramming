@@ -1,1 +1,2 @@
-# C_Programming
+# C Programming
+This repo contains C programs.
