@@ -1,2 +1,2 @@
 # C Programming
-This repo contains C programs.
+This repo contains C, C++, Data Structures programs.
